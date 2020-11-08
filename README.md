@@ -4,4 +4,5 @@
 ./gradlew --help
 ./gradlew compileJava
 ./gradlew bootRun
+./gradlew test
 ```
