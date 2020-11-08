@@ -4,11 +4,7 @@
 
 ![CircleCI](https://img.shields.io/circleci/build/github/cnruby/hello_java_circleci?label=circleci%20build)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/gradle/gradle?logo=gradle)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/spring-projects/spring-boot?logo=spring)
-
-<!--
-[![Maven Central](https://img.shields.io/maven-central/v/com.oracle/truffle-api.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22com.oracle%22%20AND%20a:%22truffle-api%22)
--->
+[![Maven Central](https://img.shields.io/maven-central/v/org.springframework.boot/spring-boot-starter-json.svg?label=Spring%20Boot)](https://search.maven.org/search?q=g:%22org.springframework.boot%22%20AND%20a:%22spring-boot-starter-json%22)
 
 # hello java circleci
 ## commands
