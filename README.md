@@ -1,2 +1,7 @@
-# hello_java_circleci
-hello java circleci
+# hello java circleci
+## commands
+```bash
+./gradlew --help
+./gradlew compileJava
+./gradlew bootRun
+```
