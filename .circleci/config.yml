@@ -33,6 +33,7 @@ jobs:
 
       #- run: ./gradlew dependencies
       - run: pwd
+      - run: ls -al
 
       - save_cache:
           paths:
