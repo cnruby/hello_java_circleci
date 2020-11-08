@@ -32,7 +32,7 @@ jobs:
             - v1-dependencies-
 
       - run: pwd
-        - run: ls -al
+      - run: ls -al
       - run: /home/circleci/repo/gradlew tasks
       #- run: ./gradlew dependencies
 
